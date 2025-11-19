@@ -1,3 +1,6 @@
+
+![Pioneercode](https://i.postimg.cc/90qZ0M6G/687.gif)
+
 # Hi, I'm Pioneercode 👋
 
 I am a passionate Front-End Web Developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
@@ -12,7 +15,7 @@ I am a passionate Front-End Web Developer, driven by a curiosity for technology 
 ## My Articles
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,react,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
