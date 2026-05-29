@@ -32,7 +32,7 @@ I am a passionate Front-End Web Developer, driven by a curiosity for technology 
 
 ## 📬 Get in Touch
 
-- Connect with me on [linkedin](https://www.linkedin.com/in/pioneercode)  [Frontend Mentor](https://www.frontendmentor.io/profile/Pioneercode1) [𝕏](https://x.com/pioneercodeai)
+- Connect with me on [linkedin](https://www.linkedin.com/in/pioneercode)  [Frontend Mentor](https://www.frontendmentor.io/profile/Pioneercode1)
 - Read more of my articles on [pioneercode](https://pioneercode1.github.io/pioneercode/)
 
 You can host your website on Hostinger from this link to get discounts and gifts. [Hostinger](https://hostinger.ae?REFERRALCODE=KIKPIONEEIWA)
